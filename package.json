@@ -24,6 +24,7 @@
     "dev": "vite",
     "build": "cross-env NODE_ENV=production vite build",
     "serve": "vite preview",
+    "check": "sh ./scripts/check-duplicates.sh",
     "lint": "eslint .",
     "lint:fix": "eslint . --fix",
     "prepare": "husky"
