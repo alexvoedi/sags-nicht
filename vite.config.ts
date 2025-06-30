@@ -9,6 +9,7 @@ import { defineConfig } from 'vite'
 import Inspect from 'vite-plugin-inspect'
 
 export default defineConfig({
+  base: '/sags-nicht/',
   resolve: {
     alias: {
       '@': path.resolve(__dirname, 'src'),
