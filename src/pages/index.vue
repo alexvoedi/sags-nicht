@@ -40,7 +40,6 @@ function nextRound() {
     correctIds: [],
     wrongIds: [],
   }
-  seenWordIds.value = []
   currentWordId.value = null
   nextWord()
   setTimeout(() => {

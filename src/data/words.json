@@ -2,417 +2,417 @@
   {
     "word": "Pikachu",
     "taboos": ["Elektro", "Maus", "Ash", "Donnerblitz", "Gelb"],
-    "cateogory": "pokemon"
+    "category": "pokemon"
   },
   {
     "word": "Pokéball",
     "taboos": ["Fang", "Ball", "Trainer", "Werfen", "Item"],
-    "cateogory": "pokemon"
+    "category": "pokemon"
   },
   {
     "word": "Glurak",
     "taboos": ["Feuer", "Drache", "Fliegen", "Glutexo", "Starter"],
-    "cateogory": "pokemon"
+    "category": "pokemon"
   },
   {
     "word": "Team Rocket",
     "taboos": ["Jessie", "James", "Mauzi", "Klauen", "Motto"],
-    "cateogory": "pokemon"
+    "category": "pokemon"
   },
   {
     "word": "Mewtu",
     "taboos": ["Genlabor", "Legendär", "Psycho", "Klon", "Mew"],
-    "cateogory": "pokemon"
+    "category": "pokemon"
   },
   {
     "word": "Pokédex",
     "taboos": ["Eintrag", "Informationen", "Professor", "Liste", "Gerät"],
-    "cateogory": "pokemon"
+    "category": "pokemon"
   },
   {
     "word": "Bisasam",
     "taboos": ["Pflanze", "Starter", "Kanto", "Knospe", "Gift"],
-    "cateogory": "pokemon"
+    "category": "pokemon"
   },
   {
     "word": "Arenaleiter",
     "taboos": ["Orden", "Kampf", "Stadt", "Trainer", "Herausforderung"],
-    "cateogory": "pokemon"
+    "category": "pokemon"
   },
   {
     "word": "Evoli",
     "taboos": ["Entwicklung", "Normal", "viele", "Flamara", "Nachtara"],
-    "cateogory": "pokemon"
+    "category": "pokemon"
   },
   {
     "word": "Relaxo",
     "taboos": ["Schlaf", "Blockieren", "Straße", "Dick", "Faul"],
-    "cateogory": "pokemon"
+    "category": "pokemon"
   },
   {
     "word": "Arthas",
     "taboos": ["Lichkönig", "Frostmourne", "Lordaeron", "Untot", "König"],
-    "cateogory": "world_of_warcraft"
+    "category": "world_of_warcraft"
   },
   {
     "word": "Orgrimmar",
     "taboos": ["Horde", "Hauptstadt", "Durotar", "Thrall", "Orcs"],
-    "cateogory": "world_of_warcraft"
+    "category": "world_of_warcraft"
   },
   {
     "word": "Dalaran",
     "taboos": ["Magier", "Schweben", "Stadt", "Kirin Tor", "Nordend"],
-    "cateogory": "world_of_warcraft"
+    "category": "world_of_warcraft"
   },
   {
     "word": "Illidan",
     "taboos": ["Dämonenjäger", "Zwillinge", "Blind", "Gul’dan", "Verräter"],
-    "cateogory": "world_of_warcraft"
+    "category": "world_of_warcraft"
   },
   {
     "word": "Azeroth",
     "taboos": ["Welt", "Kontinent", "Planet", "Allianz", "Horde"],
-    "cateogory": "world_of_warcraft"
+    "category": "world_of_warcraft"
   },
   {
     "word": "Raid",
     "taboos": ["Gruppe", "Boss", "Instanz", "Schlachtzug", "10/25 Spieler"],
-    "cateogory": "world_of_warcraft"
+    "category": "world_of_warcraft"
   },
   {
     "word": "Paladin",
     "taboos": ["Licht", "Heilung", "Schild", "Klasse", "Gerechtigkeit"],
-    "cateogory": "world_of_warcraft"
+    "category": "world_of_warcraft"
   },
   {
     "word": "Sylvanas",
     "taboos": ["Banshee", "Untote", "Windläufer", "Dunkle Fürstin", "Horde"],
-    "cateogory": "world_of_warcraft"
+    "category": "world_of_warcraft"
   },
   {
     "word": "Teldrassil",
     "taboos": ["Baum", "Nachtelfen", "Feuer", "Kalimdor", "Heimat"],
-    "cateogory": "world_of_warcraft"
+    "category": "world_of_warcraft"
   },
   {
     "word": "Dungeon",
     "taboos": ["Gruppe", "Instanz", "5 Spieler", "Bosse", "Beute"],
-    "cateogory": "world_of_warcraft"
+    "category": "world_of_warcraft"
   },
   {
     "word": "Compiler",
     "taboos": ["Code", "Übersetzen", "Programm", "Maschinensprache", "Build"],
-    "cateogory": "informatik"
+    "category": "informatik"
   },
   {
     "word": "Algorithmus",
     "taboos": ["Rezept", "Lösung", "Schritte", "Problem", "Berechnung"],
-    "cateogory": "informatik"
+    "category": "informatik"
   },
   {
     "word": "Mimikyu",
     "taboos": ["Verkleidung", "Geist", "Pikachu", "Traurig", "Maske"],
-    "cateogory": "pokemon"
+    "category": "pokemon"
   },
   {
     "word": "Professor Eich",
     "taboos": ["Pokédex", "Starter", "Labor", "Alabastia", "Forschung"],
-    "cateogory": "pokemon"
+    "category": "pokemon"
   },
   {
     "word": "Thrall",
     "taboos": ["Horde", "Schamane", "Orc", "Warchief", "Durotar"],
-    "cateogory": "world_of_warcraft"
+    "category": "world_of_warcraft"
   },
   {
     "word": "Hornet",
     "taboos": ["Nadel", "Boss", "Schwester", "Kampf", "Seide"],
-    "cateogory": "hollow_knight"
+    "category": "hollow_knight"
   },
   {
     "word": "Traumnagel",
     "taboos": ["Träume", "Nagel", "Seherin", "Essenz", "Geister"],
-    "cateogory": "hollow_knight"
+    "category": "hollow_knight"
   },
   {
     "word": "Dust 2",
     "taboos": ["Map", "Bombe", "A-Spot", "Terroristen", "CS"],
-    "cateogory": "counter_strike"
+    "category": "counter_strike"
   },
   {
     "word": "AWP",
     "taboos": ["Sniper", "Waffe", "One-Shot", "Teuer", "Langsam"],
-    "cateogory": "counter_strike"
+    "category": "counter_strike"
   },
   {
     "word": "Drachenblut",
     "taboos": ["Skyrim", "Held", "Schrei", "Fus Ro Dah", "Drachen"],
-    "cateogory": "skyrim"
+    "category": "skyrim"
   },
   {
     "word": "Weißlauf",
     "taboos": ["Stadt", "Himmelsrand", "Wache", "Balgruuf", "Zentral"],
-    "cateogory": "skyrim"
+    "category": "skyrim"
   },
   {
     "word": "Max Caulfield",
     "taboos": ["Foto", "Zeit", "Hauptfigur", "Chloe", "Blackwell"],
-    "cateogory": "life_is_strange"
+    "category": "life_is_strange"
   },
   {
     "word": "Schmetterlingseffekt",
     "taboos": ["Entscheidung", "Folgen", "Chaos", "Symbol", "Kausalität"],
-    "cateogory": "life_is_strange"
+    "category": "life_is_strange"
   },
   {
     "word": "Glados",
     "taboos": ["KI", "Sarkasmus", "Testkammer", "Roboter", "Zentrale"],
-    "cateogory": "portal"
+    "category": "portal"
   },
   {
     "word": "Portal Gun",
     "taboos": ["Waffe", "Tor", "Orange", "Blau", "Rätsel"],
-    "cateogory": "portal"
+    "category": "portal"
   },
   {
     "word": "Agile",
     "taboos": ["Scrum", "Sprint", "Iterationen", "Entwicklung", "Flexibel"],
-    "cateogory": "softwareentwicklung"
+    "category": "softwareentwicklung"
   },
   {
     "word": "Git",
     "taboos": ["Version", "Repository", "Commit", "Push", "Branch"],
-    "cateogory": "softwareentwicklung"
+    "category": "softwareentwicklung"
   },
   {
     "word": "Callback",
     "taboos": ["Funktion", "Asynchron", "Rückgabe", "Event", "Aufruf"],
-    "cateogory": "javascript"
+    "category": "javascript"
   },
   {
     "word": "Promise",
     "taboos": ["Asynchron", "Dann", "Fehler", "Warten", "Erfüllt"],
-    "cateogory": "javascript"
+    "category": "javascript"
   },
   {
     "word": "Turingmaschine",
     "taboos": ["Rechner", "Theorie", "Band", "Alan", "Endlos"],
-    "cateogory": "informatik"
+    "category": "informatik"
   },
   {
     "word": "Datenbank",
     "taboos": ["SQL", "Tabellen", "Abfrage", "Speicherung", "Relation"],
-    "cateogory": "informatik"
+    "category": "informatik"
   },
   {
     "word": "Gengar",
     "taboos": ["Geist", "Gift", "Lächeln", "Spukball", "Entwicklung"],
-    "cateogory": "pokemon"
+    "category": "pokemon"
   },
   {
     "word": "Zapdos",
     "taboos": ["Vogel", "Legendär", "Blitz", "Elektro", "Flug"],
-    "cateogory": "pokemon"
+    "category": "pokemon"
   },
   {
     "word": "Varian Wrynn",
     "taboos": ["König", "Sturmwind", "Allianz", "Anduin", "Krieger"],
-    "cateogory": "world_of_warcraft"
+    "category": "world_of_warcraft"
   },
   {
     "word": "Fel",
     "taboos": ["Magie", "Grün", "Dämonisch", "Hexenmeister", "Brennende Legion"],
-    "cateogory": "world_of_warcraft"
+    "category": "world_of_warcraft"
   },
   {
     "word": "Weißer Palast",
     "taboos": ["Hohlritter", "Traumwelt", "Plattform", "Stacheln", "Schwierig"],
-    "cateogory": "hollow_knight"
+    "category": "hollow_knight"
   },
   {
     "word": "Grimm",
     "taboos": ["Zirkus", "Albtraum", "Boss", "Feuer", "Maske"],
-    "cateogory": "hollow_knight"
+    "category": "hollow_knight"
   },
   {
     "word": "Plant",
     "taboos": ["Map", "CSGO", "Bombe", "Terroristen", "A/B"],
-    "cateogory": "counter_strike"
+    "category": "counter_strike"
   },
   {
     "word": "Eco-Runde",
     "taboos": ["Sparen", "Waffen", "Geld", "Runde", "Kaufen"],
-    "cateogory": "counter_strike"
+    "category": "counter_strike"
   },
   {
     "word": "Schreien",
     "taboos": ["Drachenblut", "Fus Ro Dah", "Kraft", "Sprache", "Shout"],
-    "cateogory": "skyrim"
+    "category": "skyrim"
   },
   {
     "word": "Dämmerstern",
     "taboos": ["Stadt", "Schnee", "Nacht", "Nördlich", "Skyrim"],
-    "cateogory": "skyrim"
+    "category": "skyrim"
   },
   {
     "word": "Chloe Price",
     "taboos": ["Blau", "Rebellin", "Tattoo", "Freundin", "Max"],
-    "cateogory": "life_is_strange"
+    "category": "life_is_strange"
   },
   {
     "word": "Zeitzurückspulen",
     "taboos": ["Fähigkeit", "Rückgängig", "Kamera", "Entscheidung", "Max"],
-    "cateogory": "life_is_strange"
+    "category": "life_is_strange"
   },
   {
     "word": "Würfelkammer",
     "taboos": ["Rätsel", "Test", "Box", "Portal", "Level"],
-    "cateogory": "portal"
+    "category": "portal"
   },
   {
     "word": "Begleiterkubus",
     "taboos": ["Herz", "Box", "Halten", "Lieblingsobjekt", "Zerstören"],
-    "cateogory": "portal"
+    "category": "portal"
   },
   {
     "word": "Code Review",
     "taboos": ["Überprüfen", "Pull Request", "Änderungen", "Entwicklung", "Fehler"],
-    "cateogory": "softwareentwicklung"
+    "category": "softwareentwicklung"
   },
   {
     "word": "CI/CD",
     "taboos": ["Pipeline", "Deploy", "Integration", "Delivery", "Automatisierung"],
-    "cateogory": "softwareentwicklung"
+    "category": "softwareentwicklung"
   },
   {
     "word": "Closure",
     "taboos": ["Lexikalisch", "Funktion", "Zugriff", "Umgebung", "Variable"],
-    "cateogory": "javascript"
+    "category": "javascript"
   },
   {
     "word": "Event Loop",
     "taboos": ["Thread", "Stack", "Queue", "Async", "Verarbeitung"],
-    "cateogory": "javascript"
+    "category": "javascript"
   },
   {
     "word": "V",
     "taboos": ["Protagonist", "Cyberware", "Samurai", "Edgerunner", "Implantate"],
-    "cateogory": "cyberpunk_2077"
+    "category": "cyberpunk_2077"
   },
   {
     "word": "Night City",
     "taboos": ["Stadt", "Zukunft", "Cyberpunk", "Neon", "Megakonzerne"],
-    "cateogory": "cyberpunk_2077"
+    "category": "cyberpunk_2077"
   },
   {
     "word": "Link",
     "taboos": ["Held", "Hyrule", "Schwert", "Grün", "Stumm"],
-    "cateogory": "the_legend_of_zelda"
+    "category": "the_legend_of_zelda"
   },
   {
     "word": "Master-Schwert",
     "taboos": ["Legendär", "Waffe", "Zelda", "Blau", "Bann"],
-    "cateogory": "the_legend_of_zelda"
+    "category": "the_legend_of_zelda"
   },
   {
     "word": "Kernel",
     "taboos": ["Linux", "System", "Betriebssystem", "Modul", "Core"],
-    "cateogory": "linux"
+    "category": "linux"
   },
   {
     "word": "Bowser",
     "taboos": ["König", "Schildkröte", "Feind", "Peach", "Super Mario"],
-    "cateogory": "super_mario"
+    "category": "super_mario"
   },
   {
     "word": "Sans",
     "taboos": ["Skelett", "Bruder", "Papyrus", "Gasterblaster", "Undertale"],
-    "cateogory": "undertale"
+    "category": "undertale"
   },
   {
     "word": "Lux",
     "taboos": ["Magierin", "Demacia", "Licht", "Ult", "Schaden"],
-    "cateogory": "league_of_legends"
+    "category": "league_of_legends"
   },
   {
     "word": "Pilz",
     "taboos": ["Wachsen", "Item", "Mario", "1-Up", "Block"],
-    "cateogory": "super_mario"
+    "category": "super_mario"
   },
   {
     "word": "Red Shell",
     "taboos": ["Verfolgung", "Panzer", "Mario Kart", "Treffer", "Waffe"],
-    "cateogory": "retro_gaming"
+    "category": "retro_gaming"
   },
   {
     "word": "PI",
     "taboos": ["Kreis", "Zahl", "Unendlich", "Mathematik", "Irrational"],
-    "cateogory": "mathematik"
+    "category": "mathematik"
   },
   {
     "word": "Meme",
     "taboos": ["Internet", "Witz", "Format", "Bild", "Virales"],
-    "cateogory": "memes"
+    "category": "memes"
   },
   {
     "word": "Hextech",
     "taboos": ["Magie", "Technologie", "Runeterra", "Arcane", "Jinx"],
-    "cateogory": "arcane"
+    "category": "arcane"
   },
   {
     "word": "Torvalds",
     "taboos": ["Linux", "Linus", "Kernel", "Erfinder", "Open Source"],
-    "cateogory": "linux"
+    "category": "linux"
   },
   {
     "word": "Navi",
     "taboos": ["Hey", "Listen", "Fee", "Ocarina", "Zelda"],
-    "cateogory": "the_legend_of_zelda"
+    "category": "the_legend_of_zelda"
   },
   {
     "word": "Vim",
     "taboos": ["Editor", "Terminal", "Tasten", "Modi", "Kommando"],
-    "cateogory": "linux"
+    "category": "linux"
   },
   {
     "word": "Bug",
     "taboos": ["Fehler", "Code", "Debuggen", "Software", "Problem"],
-    "cateogory": "softwareentwicklung"
+    "category": "softwareentwicklung"
   },
   {
     "word": "fetch",
     "taboos": ["API", "Request", "Promise", "JavaScript", "Daten"],
-    "cateogory": "javascript"
+    "category": "javascript"
   },
   {
     "word": "Johnny Silverhand",
     "taboos": ["Rockstar", "Arm", "Keanu", "Cyberpunk", "Rebell"],
-    "cateogory": "cyberpunk_2077"
+    "category": "cyberpunk_2077"
   },
   {
     "word": "Torbjörn",
     "taboos": ["Turret", "Schmied", "Overwatch", "Klein", "Schweden"],
-    "cateogory": "league_of_legends"
+    "category": "league_of_legends"
   },
   {
     "word": "Asgore",
     "taboos": ["König", "Underground", "Dreizack", "Toriel", "Undertale"],
-    "cateogory": "undertale"
+    "category": "undertale"
   },
   {
     "word": "Archlinux",
     "taboos": ["Rolling", "Paketmanager", "Minimal", "Installieren", "Distribution"],
-    "cateogory": "linux"
+    "category": "linux"
   },
   {
     "word": "Fizz",
     "taboos": ["Assassine", "Wasser", "Trident", "Ult", "LoL"],
-    "cateogory": "league_of_legends"
+    "category": "league_of_legends"
   },
   {
     "word": "Zelda",
     "taboos": ["Prinzessin", "Magie", "Hyrule", "Nintendo", "Link"],
-    "cateogory": "the_legend_of_zelda"
+    "category": "the_legend_of_zelda"
   },
   {
     "word": "Schiggy",
@@ -425,11 +425,6 @@
     "category": "pokemon"
   },
   {
-    "word": "Despotar",
-    "taboos": ["Dunkel", "Stein", "Tyranitar", "Pseudo-Legendär", "Biss"],
-    "category": "pokemon"
-  },
-  {
     "word": "Togepi",
     "taboos": ["Ei", "Glückssymbol", "Fee", "Sternenstaub", "Baby-Pokémon"],
     "category": "pokemon"
@@ -437,21 +432,6 @@
   {
     "word": "Lugia",
     "taboos": ["Legendär", "Psycho", "Flug", "Silber", "Tiefsee"],
-    "category": "pokemon"
-  },
-  {
-    "word": "Metagross",
-    "taboos": ["Stahl", "Psycho", "Mega-Entwicklung", "4 Gehirne", "Pseudo-Legendär"],
-    "category": "pokemon"
-  },
-  {
-    "word": "Snorlax",
-    "taboos": ["Schlaf", "Mampf", "Straßenblockade", "Normal", "Dick"],
-    "category": "pokemon"
-  },
-  {
-    "word": "Hydreigon",
-    "taboos": ["Drache", "Unlicht", "Drei Köpfe", "Pseudo-Legendär", "Brutal"],
     "category": "pokemon"
   },
   {
@@ -810,11 +790,6 @@
     "category": "pokemon"
   },
   {
-    "word": "Shinys",
-    "taboos": ["Pokémon", "selten", "Farbe", "glänzend", "Variation"],
-    "category": "pokemon"
-  },
-  {
     "word": "Wettbewerb",
     "taboos": ["Kampf", "Turnier", "Pokémon", "Trainer", "Preis"],
     "category": "pokemon"
@@ -912,11 +887,6 @@
   {
     "word": "Arenakampf",
     "taboos": ["PvP", "Spieler", "Team", "Kampf", "Wettbewerb"],
-    "category": "world of warcraft"
-  },
-  {
-    "word": "Mount",
-    "taboos": ["Reittier", "reiten", "Transport", "Pferd", "Fliegen"],
     "category": "world of warcraft"
   },
   {
