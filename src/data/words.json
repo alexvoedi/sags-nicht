@@ -615,16 +615,6 @@
     "category": "league_of_legends"
   },
   {
-    "word": "Star",
-    "taboos": ["Mario", "Stern", "Unverwundbar", "Sammeln", "Power-Up"],
-    "category": "super_mario"
-  },
-  {
-    "word": "Blue Shell",
-    "taboos": ["Mario Kart", "Erster", "Blau", "Hass", "Treffer"],
-    "category": "retro_gaming"
-  },
-  {
     "word": "Fibonacci",
     "taboos": ["Folge", "Zahlen", "Goldener Schnitt", "Mathematik", "Rekursion"],
     "category": "mathematik"
@@ -688,5 +678,930 @@
     "word": "Yasuo",
     "taboos": ["Windwand", "Samurai", "LoL", "Midlane", "Crit"],
     "category": "league_of_legends"
+  },
+  {
+    "word": "Trainer",
+    "taboos": ["Kämpfer", "Pokémon", "Level", "Arena", "Orden"],
+    "category": "pokemon"
+  },
+  {
+    "word": "Arena",
+    "taboos": ["Kampf", "Arena-Leiter", "Orden", "Challenge", "Pokémon"],
+    "category": "pokemon"
+  },
+  {
+    "word": "Entwicklung",
+    "taboos": ["Level", "Stein", "Pokémon", "Mega", "verwandeln"],
+    "category": "pokemon"
+  },
+  {
+    "word": "Fähigkeit",
+    "taboos": ["Attacke", "Status", "Pokémon", "Kampf", "Talent"],
+    "category": "pokemon"
+  },
+  {
+    "word": "Typ",
+    "taboos": ["Feuer", "Wasser", "Pflanze", "Stärke", "Schwäche"],
+    "category": "pokemon"
+  },
+  {
+    "word": "Attacke",
+    "taboos": ["Kampf", "Typ", "Schaden", "Z-Attacke", "TM"],
+    "category": "pokemon"
+  },
+  {
+    "word": "Tausch",
+    "taboos": ["Pokémon", "Handeln", "Freund", "Trainer", "Verbinden"],
+    "category": "pokemon"
+  },
+  {
+    "word": "Level",
+    "taboos": ["Erfahrung", "Kämpfen", "Pokémon", "Steigen", "Entwicklung"],
+    "category": "pokemon"
+  },
+  {
+    "word": "Erfahrung",
+    "taboos": ["Kämpfe", "Level", "Pokémon", "Punkte", "Trainer"],
+    "category": "pokemon"
+  },
+  {
+    "word": "Fangrate",
+    "taboos": ["fangen", "Pokéball", "Pokémon", "Schwierig", "Raten"],
+    "category": "pokemon"
+  },
+  {
+    "word": "TM",
+    "taboos": ["Attacke", "lernen", "Pokémon", "Item", "gebrauchen"],
+    "category": "pokemon"
+  },
+  {
+    "word": "VM",
+    "taboos": ["Attacke", "lernen", "Höhle", "Pokémon", "Item"],
+    "category": "pokemon"
+  },
+  {
+    "word": "Meisterball",
+    "taboos": ["Pokéball", "fangen", "legendär", "sicher", "Pokémon"],
+    "category": "pokemon"
+  },
+  {
+    "word": "Meistertrainer",
+    "taboos": ["Trainer", "Kampf", "Herausforderung", "Pokémon", "Orden"],
+    "category": "pokemon"
+  },
+  {
+    "word": "Orden",
+    "taboos": ["Arena", "Kampf", "Trainer", "Pokémon", "Belohnung"],
+    "category": "pokemon"
+  },
+  {
+    "word": "Arena-Leiter",
+    "taboos": ["Arena", "Trainer", "Kampf", "Orden", "Pokémon"],
+    "category": "pokemon"
+  },
+  {
+    "word": "Legendär",
+    "taboos": ["Pokémon", "besonders", "seltener", "Mythos", "fangen"],
+    "category": "pokemon"
+  },
+  {
+    "word": "Shiny",
+    "taboos": ["Pokémon", "selten", "Farbe", "glänzend", "Variation"],
+    "category": "pokemon"
+  },
+  {
+    "word": "Statuswerte",
+    "taboos": ["KP", "Angriff", "Verteidigung", "Spezial", "Pokémon"],
+    "category": "pokemon"
+  },
+  {
+    "word": "Kampf",
+    "taboos": ["Arena", "Attacke", "Trainer", "Pokémon", "Strategie"],
+    "category": "pokemon"
+  },
+  {
+    "word": "Evolutionsstein",
+    "taboos": ["Entwicklung", "Pokémon", "Item", "Stein", "Mega"],
+    "category": "pokemon"
+  },
+  {
+    "word": "Schwäche",
+    "taboos": ["Typ", "Kampf", "Pokémon", "Stärke", "Resistenz"],
+    "category": "pokemon"
+  },
+  {
+    "word": "Resistenz",
+    "taboos": ["Schwäche", "Typ", "Kampf", "Pokémon", "Abwehr"],
+    "category": "pokemon"
+  },
+  {
+    "word": "Immunität",
+    "taboos": ["Schwäche", "Resistenz", "Typ", "Status", "Kampf"],
+    "category": "pokemon"
+  },
+  {
+    "word": "Pokémon Center",
+    "taboos": ["Heilen", "Pokémon", "Ort", "Medizin", "NPC"],
+    "category": "pokemon"
+  },
+  {
+    "word": "Pokémon GO",
+    "taboos": ["Handy", "Fangen", "Ort", "Pokéstop", "Raid"],
+    "category": "pokemon"
+  },
+  {
+    "word": "Shinys",
+    "taboos": ["Pokémon", "selten", "Farbe", "glänzend", "Variation"],
+    "category": "pokemon"
+  },
+  {
+    "word": "Wettbewerb",
+    "taboos": ["Kampf", "Turnier", "Pokémon", "Trainer", "Preis"],
+    "category": "pokemon"
+  },
+  {
+    "word": "Strategie",
+    "taboos": ["Kampf", "Plan", "Trainer", "Pokémon", "Taktik"],
+    "category": "pokemon"
+  },
+  {
+    "word": "Basiswerte",
+    "taboos": ["Status", "KP", "Angriff", "Verteidigung", "Pokémon"],
+    "category": "pokemon"
+  },
+  {
+    "word": "Legendäre Pokémon",
+    "taboos": ["Legendär", "Pokémon", "besonders", "selten", "Mythos"],
+    "category": "pokemon"
+  },
+  {
+    "word": "Starter",
+    "taboos": ["Pokémon", "Anfang", "Wahl", "Trainer", "Level"],
+    "category": "pokemon"
+  },
+  {
+    "word": "PvP",
+    "taboos": ["Spieler", "Kampf", "Trainer", "Arena", "Pokémon"],
+    "category": "pokemon"
+  },
+  {
+    "word": "Fraktion",
+    "taboos": ["Allianz", "Horde", "Welt", "Kampf", "Ruf"],
+    "category": "world of warcraft"
+  },
+  {
+    "word": "Allianz",
+    "taboos": ["Horde", "Fraktion", "Azeroth", "Kampf", "Ruf"],
+    "category": "world of warcraft"
+  },
+  {
+    "word": "Horde",
+    "taboos": ["Allianz", "Fraktion", "Azeroth", "Kampf", "Ruf"],
+    "category": "world of warcraft"
+  },
+  {
+    "word": "Gilde",
+    "taboos": ["Gruppe", "Raid", "Spieler", "Zusammen", "Kommunikation"],
+    "category": "world of warcraft"
+  },
+  {
+    "word": "Quest",
+    "taboos": ["Aufgabe", "Belohnung", "NPC", "Story", "Level"],
+    "category": "world of warcraft"
+  },
+  {
+    "word": "Talente",
+    "taboos": ["Fähigkeiten", "Auswahl", "Skilltree", "Kampf", "Charakter"],
+    "category": "world of warcraft"
+  },
+  {
+    "word": "Fähigkeiten",
+    "taboos": ["Talente", "Zauber", "Kampf", "Charakter", "Skill"],
+    "category": "world of warcraft"
+  },
+  {
+    "word": "Bosskampf",
+    "taboos": ["Raid", "Dungeon", "Stark", "Gruppe", "Loot"],
+    "category": "world of warcraft"
+  },
+  {
+    "word": "Azerit",
+    "taboos": ["Ressource", "Krieg", "Rüstung", "Patch", "Waffe"],
+    "category": "world of warcraft"
+  },
+  {
+    "word": "Ruf",
+    "taboos": ["Fraktion", "Belohnung", "Reputation", "Quest", "Währung"],
+    "category": "world of warcraft"
+  },
+  {
+    "word": "Berufe",
+    "taboos": ["Handwerk", "Herstellung", "Skills", "Materialien", "Ressourcen"],
+    "category": "world of warcraft"
+  },
+  {
+    "word": "Flugpunkt",
+    "taboos": ["Reisen", "Transport", "Welt", "Mount", "Portal"],
+    "category": "world of warcraft"
+  },
+  {
+    "word": "Instanz",
+    "taboos": ["Dungeon", "Raid", "Gruppe", "Boss", "Kampf"],
+    "category": "world of warcraft"
+  },
+  {
+    "word": "Arenakampf",
+    "taboos": ["PvP", "Spieler", "Team", "Kampf", "Wettbewerb"],
+    "category": "world of warcraft"
+  },
+  {
+    "word": "Mount",
+    "taboos": ["Reittier", "reiten", "Transport", "Pferd", "Fliegen"],
+    "category": "world of warcraft"
+  },
+  {
+    "word": "Haustierkampf",
+    "taboos": ["Pets", "Kampf", "Sammlung", "Taktik", "Trainieren"],
+    "category": "world of warcraft"
+  },
+  {
+    "word": "Abenteuerruf",
+    "taboos": ["Ruf", "Fraktion", "Belohnung", "Quest", "Welt"],
+    "category": "world of warcraft"
+  },
+  {
+    "word": "Transmogrifikation",
+    "taboos": ["Aussehen", "Rüstung", "Verändern", "Cosmetic", "Style"],
+    "category": "world of warcraft"
+  },
+  {
+    "word": "Azeritrüstung",
+    "taboos": ["Azerit", "Rüstung", "Set", "Rüstungsteile", "Krieg"],
+    "category": "world of warcraft"
+  },
+  {
+    "word": "Weltboss",
+    "taboos": ["Boss", "Gruppe", "Raid", "Welt", "Stark"],
+    "category": "world of warcraft"
+  },
+  {
+    "word": "Erfahrungspunkte",
+    "taboos": ["Level", "Aufsteigen", "Quest", "Belohnung", "Charakter"],
+    "category": "world of warcraft"
+  },
+  {
+    "word": "Rufsteigerung",
+    "taboos": ["Ruf", "Fraktion", "Belohnung", "Quest", "Reputation"],
+    "category": "world of warcraft"
+  },
+  {
+    "word": "Legendärer Gegenstand",
+    "taboos": ["Legendär", "Item", "Loot", "Stark", "Waffe"],
+    "category": "world of warcraft"
+  },
+  {
+    "word": "Erbstück",
+    "taboos": ["Item", "Loot", "Charakter", "Upgrade", "Stark"],
+    "category": "world of warcraft"
+  },
+  {
+    "word": "Währung",
+    "taboos": ["Gold", "Kauf", "Item", "Belohnung", "Handel"],
+    "category": "world of warcraft"
+  },
+  {
+    "word": "Schlachtfeld",
+    "taboos": ["PvP", "Kampf", "Arena", "Team", "Wettbewerb"],
+    "category": "world of warcraft"
+  },
+  {
+    "word": "Mythisch+",
+    "taboos": ["Dungeon", "Schwierigkeit", "Timer", "Loot", "Gruppe"],
+    "category": "world of warcraft"
+  },
+  {
+    "word": "Artefaktwaffe",
+    "taboos": ["Waffe", "Stark", "Legende", "Azerit", "Quest"],
+    "category": "world of warcraft"
+  },
+  {
+    "word": "Truhe",
+    "taboos": ["Loot", "Item", "Öffnen", "Belohnung", "Kiste"],
+    "category": "world of warcraft"
+  },
+  {
+    "word": "Händler",
+    "taboos": ["Kaufen", "Verkaufen", "Währung", "Item", "NPC"],
+    "category": "world of warcraft"
+  },
+  {
+    "word": "Zauber",
+    "taboos": ["Magie", "Fähigkeiten", "Kampf", "Charakter", "Skill"],
+    "category": "world of warcraft"
+  },
+  {
+    "word": "Reittier",
+    "taboos": ["Mount", "reiten", "Transport", "Pferd", "Fliegen"],
+    "category": "world of warcraft"
+  },
+  {
+    "word": "Haustier",
+    "taboos": ["Begleiter", "Kampf", "Sammeln", "Pet", "Trainieren"],
+    "category": "world of warcraft"
+  },
+  {
+    "word": "Addon",
+    "taboos": ["Mod", "UI", "Interface", "Spiel", "Erweiterung"],
+    "category": "world of warcraft"
+  },
+  {
+    "word": "Server",
+    "taboos": ["Spielwelt", "Spieler", "WoW", "Charakter", "Online"],
+    "category": "world of warcraft"
+  },
+  {
+    "word": "Charaktererstellung",
+    "taboos": ["Neuer", "Charakter", "Rasse", "Klasse", "WoW"],
+    "category": "world of warcraft"
+  },
+  {
+    "word": "Respawn",
+    "taboos": ["Wiederbeleben", "Tod", "Monster", "Spawn", "Welt"],
+    "category": "world of warcraft"
+  },
+  {
+    "word": "Gruppensuche",
+    "taboos": ["Dungeon", "Raid", "Gruppe", "Zusammen", "Spieler"],
+    "category": "world of warcraft"
+  },
+  {
+    "word": "Weltquests",
+    "taboos": ["Quest", "Welt", "Belohnung", "Fraktion", "Aufgabe"],
+    "category": "world of warcraft"
+  },
+  {
+    "word": "Cartridge",
+    "taboos": ["Spiel", "Konsole", "Modul", "Einlegen", "Retro"],
+    "category": "retro gaming"
+  },
+  {
+    "word": "Pixelgrafik",
+    "taboos": ["Pixel", "Grafik", "Retro", "8-Bit", "16-Bit"],
+    "category": "retro gaming"
+  },
+  {
+    "word": "Side-Scroller",
+    "taboos": ["Seite", "Laufen", "2D", "Level", "Spiel"],
+    "category": "retro gaming"
+  },
+  {
+    "word": "8-Bit",
+    "taboos": ["Grafik", "Retro", "Pixel", "Nintendo", "Sound"],
+    "category": "retro gaming"
+  },
+  {
+    "word": "16-Bit",
+    "taboos": ["Grafik", "Retro", "Super Nintendo", "Sega", "Sound"],
+    "category": "retro gaming"
+  },
+  {
+    "word": "Joystick",
+    "taboos": ["Controller", "Spiel", "Steuerung", "Arcade", "Hand"],
+    "category": "retro gaming"
+  },
+  {
+    "word": "Highscore",
+    "taboos": ["Punkte", "Rekord", "Spiel", "Arcade", "Leaderboard"],
+    "category": "retro gaming"
+  },
+  {
+    "word": "Arcade",
+    "taboos": ["Spielhalle", "Münzen", "Joystick", "Spiel", "Retro"],
+    "category": "retro gaming"
+  },
+  {
+    "word": "Konsolen",
+    "taboos": ["Spiele", "Controller", "TV", "Retro", "Nintendo"],
+    "category": "retro gaming"
+  },
+  {
+    "word": "Emulator",
+    "taboos": ["Software", "Spiel", "Konsole", "PC", "Retro"],
+    "category": "retro gaming"
+  },
+  {
+    "word": "Speicherstand",
+    "taboos": ["Speichern", "Laden", "Spiel", "Savegame", "Fortschritt"],
+    "category": "retro gaming"
+  },
+  {
+    "word": "Leveldesign",
+    "taboos": ["Level", "Spiel", "Gestaltung", "Karte", "Entwicklung"],
+    "category": "retro gaming"
+  },
+  {
+    "word": "Game Over",
+    "taboos": ["Ende", "Verloren", "Neustart", "Leben", "Bildschirm"],
+    "category": "retro gaming"
+  },
+  {
+    "word": "Checkpoint",
+    "taboos": ["Speichern", "Fortschritt", "Level", "Spiel", "Wiederholung"],
+    "category": "retro gaming"
+  },
+  {
+    "word": "Gamepad",
+    "taboos": ["Controller", "Steuerung", "Spiel", "Hand", "Konsole"],
+    "category": "retro gaming"
+  },
+  {
+    "word": "ROM",
+    "taboos": ["Spiel", "Datei", "Konsole", "Emulator", "Speicher"],
+    "category": "retro gaming"
+  },
+  {
+    "word": "Cheats",
+    "taboos": ["Code", "Spiel", "Tipps", "Unlock", "Hacken"],
+    "category": "retro gaming"
+  },
+  {
+    "word": "Pixelart",
+    "taboos": ["Pixel", "Grafik", "Retro", "Zeichnung", "Kunst"],
+    "category": "retro gaming"
+  },
+  {
+    "word": "Bitrate",
+    "taboos": ["Datenrate", "Audio", "Video", "Qualität", "Bits"],
+    "category": "retro gaming"
+  },
+  {
+    "word": "Scanline",
+    "taboos": ["Bildschirm", "Retro", "Effekt", "TV", "Pixel"],
+    "category": "retro gaming"
+  },
+  {
+    "word": "Side Quest",
+    "taboos": ["Nebenquest", "Spiel", "Aufgabe", "Level", "Story"],
+    "category": "retro gaming"
+  },
+  {
+    "word": "Warp Zone",
+    "taboos": ["Geheim", "Teleport", "Level", "Mario", "Portal"],
+    "category": "retro gaming"
+  },
+  {
+    "word": "Power-Up",
+    "taboos": ["Bonus", "Stärke", "Item", "Spiel", "Verbesserung"],
+    "category": "retro gaming"
+  },
+  {
+    "word": "Easter Egg",
+    "taboos": ["Geheimnis", "Spiel", "Fund", "Entdecken", "Bonus"],
+    "category": "retro gaming"
+  },
+  {
+    "word": "Debug Mode",
+    "taboos": ["Entwicklung", "Fehler", "Test", "Spiel", "Programmierer"],
+    "category": "retro gaming"
+  },
+  {
+    "word": "Soundchip",
+    "taboos": ["Audio", "Retro", "Konsole", "Chip", "Musik"],
+    "category": "retro gaming"
+  },
+  {
+    "word": "Musik-Chip",
+    "taboos": ["Soundchip", "Audio", "Retro", "Konsole", "Musik"],
+    "category": "retro gaming"
+  },
+  {
+    "word": "Speedrun",
+    "taboos": ["Schnell", "Spiel", "Rekord", "Ziel", "Zeit"],
+    "category": "retro gaming"
+  },
+  {
+    "word": "Savegame",
+    "taboos": ["Speichern", "Spielstand", "Laden", "Fortschritt", "Datei"],
+    "category": "retro gaming"
+  },
+  {
+    "word": "Game Boy",
+    "taboos": ["Nintendo", "Handheld", "Retro", "Spiel", "Pixel"],
+    "category": "retro gaming"
+  },
+  {
+    "word": "Floppy Disk",
+    "taboos": ["Speicher", "Alt", "Computer", "Diskette", "Retro"],
+    "category": "retro gaming"
+  },
+  {
+    "word": "CRT-Monitor",
+    "taboos": ["Bildschirm", "Alt", "Retro", "Röhre", "TV"],
+    "category": "retro gaming"
+  },
+  {
+    "word": "Startbildschirm",
+    "taboos": ["Spiel", "Menu", "Beginnen", "Laden", "Intro"],
+    "category": "retro gaming"
+  },
+  {
+    "word": "Credits",
+    "taboos": ["Ende", "Spiel", "Macher", "Team", "Namen"],
+    "category": "retro gaming"
+  },
+  {
+    "word": "2D Grafik",
+    "taboos": ["Zweidimensional", "Pixel", "Spiel", "Retro", "Seite"],
+    "category": "retro gaming"
+  },
+  {
+    "word": "HUD",
+    "taboos": ["Anzeige", "Spiel", "Leben", "Punkte", "Status"],
+    "category": "retro gaming"
+  },
+  {
+    "word": "Level-Editor",
+    "taboos": ["Gestaltung", "Spiel", "Erstellen", "Map", "Design"],
+    "category": "retro gaming"
+  },
+  {
+    "word": "Pixelperfect",
+    "taboos": ["Genau", "Pixel", "Grafik", "Retro", "Design"],
+    "category": "retro gaming"
+  },
+  {
+    "word": "Cheatcode",
+    "taboos": ["Cheats", "Code", "Spiel", "Unlock", "Hacken"],
+    "category": "retro gaming"
+  },
+  {
+    "word": "Controller",
+    "taboos": ["Gamepad", "Joystick", "Steuerung", "Spiel", "Hand"],
+    "category": "retro gaming"
+  },
+  {
+    "word": "Triforce",
+    "taboos": ["Dreieck", "Kraft", "Weisheit", "Mut", "Legendär"],
+    "category": "the legend of zelda"
+  },
+  {
+    "word": "Herzcontainer",
+    "taboos": ["Leben", "Herz", "Erweitern", "Gesundheit", "Spiel"],
+    "category": "the legend of zelda"
+  },
+  {
+    "word": "Schild",
+    "taboos": ["Schutz", "Verteidigung", "Blocken", "Kampf", "Link"],
+    "category": "the legend of zelda"
+  },
+  {
+    "word": "Rätsel",
+    "taboos": ["Puzzle", "Knobeln", "Lösen", "Dungeon", "Mechanik"],
+    "category": "the legend of zelda"
+  },
+  {
+    "word": "Tempel",
+    "taboos": ["Dungeon", "Level", "Rätsel", "Boss", "Ort"],
+    "category": "the legend of zelda"
+  },
+  {
+    "word": "Boss",
+    "taboos": ["Kampf", "Endgegner", "Stark", "Dungeon", "Bosskampf"],
+    "category": "the legend of zelda"
+  },
+  {
+    "word": "Hyrule",
+    "taboos": ["Land", "Königreich", "Zelda", "Link", "Spielwelt"],
+    "category": "the legend of zelda"
+  },
+  {
+    "word": "Karte",
+    "taboos": ["Übersicht", "Welt", "Orte", "Dungeon", "Navigation"],
+    "category": "the legend of zelda"
+  },
+  {
+    "word": "Inventar",
+    "taboos": ["Gegenstände", "Auswahl", "Items", "Tragen", "Spiel"],
+    "category": "the legend of zelda"
+  },
+  {
+    "word": "Bombe",
+    "taboos": ["Explosion", "Waffe", "Dungeon", "Zerstören", "Gegenstand"],
+    "category": "the legend of zelda"
+  },
+  {
+    "word": "Bogen",
+    "taboos": ["Pfeil", "Fernkampf", "Waffe", "Schießen", "Link"],
+    "category": "the legend of zelda"
+  },
+  {
+    "word": "Flöte",
+    "taboos": ["Musik", "Instrument", "Spiel", "Benutzen", "Zauber"],
+    "category": "the legend of zelda"
+  },
+  {
+    "word": "Schwertkampf",
+    "taboos": ["Kampf", "Nahkampf", "Waffe", "Link", "Schwert"],
+    "category": "the legend of zelda"
+  },
+  {
+    "word": "Sidequest",
+    "taboos": ["Nebenquest", "Aufgabe", "Zusätzlich", "Spiel", "Bonus"],
+    "category": "the legend of zelda"
+  },
+  {
+    "word": "Herzteil",
+    "taboos": ["Herz", "Erweitern", "Leben", "Gesundheit", "Sammeln"],
+    "category": "the legend of zelda"
+  },
+  {
+    "word": "Magie",
+    "taboos": ["Zauber", "Kraft", "Element", "Spiel", "Benutzen"],
+    "category": "the legend of zelda"
+  },
+  {
+    "word": "Rüstung",
+    "taboos": ["Schutz", "Tragen", "Kampf", "Verteidigung", "Link"],
+    "category": "the legend of zelda"
+  },
+  {
+    "word": "Trank",
+    "taboos": ["Heilung", "Flasche", "Getränk", "Magie", "Benutzen"],
+    "category": "the legend of zelda"
+  },
+  {
+    "word": "Schatz",
+    "taboos": ["Gold", "Kiste", "Fund", "Belohnung", "Gegenstand"],
+    "category": "the legend of zelda"
+  },
+  {
+    "word": "Mini-Spiel",
+    "taboos": ["Spiel", "Kleines", "Bonus", "Neben", "Unterhaltung"],
+    "category": "the legend of zelda"
+  },
+  {
+    "word": "Musik",
+    "taboos": ["Instrument", "Klang", "Spiel", "Melodie", "Flöte"],
+    "category": "the legend of zelda"
+  },
+  {
+    "word": "Pfeil und Bogen",
+    "taboos": ["Fernkampf", "Waffe", "Schießen", "Bogen", "Pfeil"],
+    "category": "the legend of zelda"
+  },
+  {
+    "word": "Höhle",
+    "taboos": ["Ort", "Dungeon", "Versteckt", "Untergrund", "Exploration"],
+    "category": "the legend of zelda"
+  },
+  {
+    "word": "Story",
+    "taboos": ["Erzählung", "Spiel", "Handlung", "Zelda", "Link"],
+    "category": "the legend of zelda"
+  },
+  {
+    "word": "Rubin",
+    "taboos": ["Geld", "Währung", "Kaufen", "Gold", "Spiel"],
+    "category": "the legend of zelda"
+  },
+  {
+    "word": "Zeitreise",
+    "taboos": ["Vergangenheit", "Zukunft", "Uhr", "Spiel", "Mechanik"],
+    "category": "the legend of zelda"
+  },
+  {
+    "word": "Pfeil",
+    "taboos": ["Bogen", "Schießen", "Fernkampf", "Waffe", "Link"],
+    "category": "the legend of zelda"
+  },
+  {
+    "word": "Questlog",
+    "taboos": ["Aufgaben", "Liste", "Spiel", "Ziele", "Notizen"],
+    "category": "the legend of zelda"
+  },
+  {
+    "word": "Teleporter",
+    "taboos": ["Reisen", "Schnell", "Ort", "Warp", "Karte"],
+    "category": "the legend of zelda"
+  },
+  {
+    "word": "NPC",
+    "taboos": ["Spieler", "Charakter", "Sprechen", "Quest", "Figur"],
+    "category": "the legend of zelda"
+  },
+  {
+    "word": "Fluch",
+    "taboos": ["Zauber", "Böse", "Kraft", "Spiel", "Magie"],
+    "category": "the legend of zelda"
+  },
+  {
+    "word": "Code",
+    "taboos": ["Programm", "Schreiben", "Quelltext", "Syntax", "Befehl"],
+    "category": "softwareentwicklung"
+  },
+  {
+    "word": "Debugging",
+    "taboos": ["Fehler", "Fehlersuche", "Problem", "Testen", "Korrigieren"],
+    "category": "softwareentwicklung"
+  },
+  {
+    "word": "Repository",
+    "taboos": ["Speicher", "Code", "Version", "Git", "Projekt"],
+    "category": "softwareentwicklung"
+  },
+  {
+    "word": "Versionskontrolle",
+    "taboos": ["Version", "Änderung", "Git", "Historie", "Code"],
+    "category": "softwareentwicklung"
+  },
+  {
+    "word": "Branch",
+    "taboos": ["Abzweigung", "Git", "Code", "Version", "Entwicklung"],
+    "category": "softwareentwicklung"
+  },
+  {
+    "word": "Merge",
+    "taboos": ["Zusammenführen", "Branch", "Git", "Konflikt", "Code"],
+    "category": "softwareentwicklung"
+  },
+  {
+    "word": "Pull Request",
+    "taboos": ["Git", "Code", "Merge", "Review", "Anfrage"],
+    "category": "softwareentwicklung"
+  },
+  {
+    "word": "Continuous Integration",
+    "taboos": ["CI", "Automatisch", "Testen", "Build", "Pipeline"],
+    "category": "softwareentwicklung"
+  },
+  {
+    "word": "Continuous Deployment",
+    "taboos": ["CD", "Automatisch", "Veröffentlichen", "Pipeline", "Deployment"],
+    "category": "softwareentwicklung"
+  },
+  {
+    "word": "Testing",
+    "taboos": ["Test", "Prüfen", "Fehler", "Qualität", "Software"],
+    "category": "softwareentwicklung"
+  },
+  {
+    "word": "Unit-Test",
+    "taboos": ["Test", "Modul", "Einheit", "Code", "Automatisch"],
+    "category": "softwareentwicklung"
+  },
+  {
+    "word": "Integrationstest",
+    "taboos": ["Test", "Module", "Zusammen", "Funktion", "Software"],
+    "category": "softwareentwicklung"
+  },
+  {
+    "word": "Deployment",
+    "taboos": ["Veröffentlichen", "Software", "Server", "Installation", "Update"],
+    "category": "softwareentwicklung"
+  },
+  {
+    "word": "Build",
+    "taboos": ["Kompilieren", "Erstellen", "Software", "Code", "Ausführen"],
+    "category": "softwareentwicklung"
+  },
+  {
+    "word": "Interpreter",
+    "taboos": ["Ausführen", "Code", "Programm", "Zeile", "Skript"],
+    "category": "softwareentwicklung"
+  },
+  {
+    "word": "Framework",
+    "taboos": ["Gerüst", "Bibliothek", "Software", "Struktur", "Entwicklung"],
+    "category": "softwareentwicklung"
+  },
+  {
+    "word": "API",
+    "taboos": ["Schnittstelle", "Programm", "Funktion", "Kommunikation", "Service"],
+    "category": "softwareentwicklung"
+  },
+  {
+    "word": "Endpoint",
+    "taboos": ["API", "URL", "Service", "Anfrage", "Server"],
+    "category": "softwareentwicklung"
+  },
+  {
+    "word": "Scrum",
+    "taboos": ["Agile", "Team", "Sprint", "Meeting", "Entwicklung"],
+    "category": "softwareentwicklung"
+  },
+  {
+    "word": "Backlog",
+    "taboos": ["Aufgaben", "Liste", "Priorität", "Scrum", "Produkt"],
+    "category": "softwareentwicklung"
+  },
+  {
+    "word": "Sprint",
+    "taboos": ["Zeitraum", "Scrum", "Entwicklung", "Aufgaben", "Team"],
+    "category": "softwareentwicklung"
+  },
+  {
+    "word": "User Story",
+    "taboos": ["Anforderung", "Benutzer", "Scrum", "Aufgabe", "Entwicklung"],
+    "category": "softwareentwicklung"
+  },
+  {
+    "word": "Dokumentation",
+    "taboos": ["Schreiben", "Beschreibung", "Code", "Anleitung", "Handbuch"],
+    "category": "softwareentwicklung"
+  },
+  {
+    "word": "Dependency",
+    "taboos": ["Abhängigkeit", "Bibliothek", "Modul", "Projekt", "Package"],
+    "category": "softwareentwicklung"
+  },
+  {
+    "word": "Library",
+    "taboos": ["Bibliothek", "Code", "Funktion", "Modul", "Wiederverwendung"],
+    "category": "softwareentwicklung"
+  },
+  {
+    "word": "Middleware",
+    "taboos": ["Zwischenschicht", "Server", "Anwendung", "Kommunikation", "Software"],
+    "category": "softwareentwicklung"
+  },
+  {
+    "word": "Debugger",
+    "taboos": ["Tool", "Fehler", "Debugging", "Code", "Analyse"],
+    "category": "softwareentwicklung"
+  },
+  {
+    "word": "Profiling",
+    "taboos": ["Analyse", "Performance", "Code", "Messung", "Optimierung"],
+    "category": "softwareentwicklung"
+  },
+  {
+    "word": "Performance",
+    "taboos": ["Geschwindigkeit", "Effizienz", "Test", "Optimierung", "Software"],
+    "category": "softwareentwicklung"
+  },
+  {
+    "word": "Scalability",
+    "taboos": ["Skalierbarkeit", "Wachstum", "System", "Last", "Leistung"],
+    "category": "softwareentwicklung"
+  },
+  {
+    "word": "Container",
+    "taboos": ["Docker", "Virtualisierung", "Software", "Isolation", "Deployment"],
+    "category": "softwareentwicklung"
+  },
+  {
+    "word": "Microservice",
+    "taboos": ["Architektur", "Dienst", "Modular", "Service", "System"],
+    "category": "softwareentwicklung"
+  },
+  {
+    "word": "Monolith",
+    "taboos": ["Architektur", "Groß", "Einheit", "Software", "System"],
+    "category": "softwareentwicklung"
+  },
+  {
+    "word": "Architektur",
+    "taboos": ["Struktur", "System", "Software", "Design", "Modell"],
+    "category": "softwareentwicklung"
+  },
+  {
+    "word": "SQL",
+    "taboos": ["Abfrage", "Datenbank", "Sprache", "Tabellen", "Daten"],
+    "category": "softwareentwicklung"
+  },
+  {
+    "word": "NoSQL",
+    "taboos": ["Datenbank", "Nicht relational", "Dokument", "Schemafrei", "Daten"],
+    "category": "softwareentwicklung"
+  },
+  {
+    "word": "Cache",
+    "taboos": ["Zwischenspeicher", "Schnell", "Daten", "Performance", "Speicher"],
+    "category": "softwareentwicklung"
+  },
+  {
+    "word": "Load Balancer",
+    "taboos": ["Verteilung", "Server", "Traffic", "Netzwerk", "Last"],
+    "category": "softwareentwicklung"
+  },
+  {
+    "word": "Security",
+    "taboos": ["Sicherheit", "Schutz", "Angriff", "Firewall", "Daten"],
+    "category": "softwareentwicklung"
+  },
+  {
+    "word": "Authentication",
+    "taboos": ["Anmeldung", "Identität", "Passwort", "Benutzer", "Sicherheit"],
+    "category": "softwareentwicklung"
+  },
+  {
+    "word": "Authorization",
+    "taboos": ["Berechtigung", "Zugriff", "Rollen", "Sicherheit", "System"],
+    "category": "softwareentwicklung"
+  },
+  {
+    "word": "DevOps",
+    "taboos": ["Entwicklung", "Betrieb", "Integration", "Deployment", "Automation"],
+    "category": "softwareentwicklung"
   }
 ]

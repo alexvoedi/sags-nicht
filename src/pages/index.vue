@@ -93,8 +93,8 @@ function wordWrong() {
     </div>
   </div>
 
-  <div v-else>
-    <button @click="nextRound">
+  <div v-else class="flex flex-col items-center justify-center h-full gap-12">
+    <button class="bg-blue-600 text-white font-bold px-8 py-6" @click="nextRound">
       Start Round
     </button>
   </div>

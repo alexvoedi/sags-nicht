@@ -19,3 +19,14 @@ memes
 retro gaming
 super mario
 mathematik
+breaking bad
+
+```json
+[
+  {
+    "word": "...",
+    "taboos": ["...", "...", "...", "...", "..."],
+    "category": "..."
+  }
+]
+```
