@@ -1,7 +1,8 @@
 <script setup lang="ts">
+import roundendSound from '@/assets/roundend.mp3'
 import words from '@/data/words.json'
 
-const bgm = new Audio('/roundend.mp3')
+const bgm = new Audio(roundendSound)
 
 const currentWordId = ref<null | number>(null)
 
@@ -45,7 +46,7 @@ function nextRound() {
   setTimeout(() => {
     round.value = null
     bgm.play()
-  }, 1_000)
+  }, 120_000)
 }
 
 function wordCorrect() {
